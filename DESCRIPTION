@@ -8,3 +8,5 @@ Description: geoinformation of china used for plot.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Imports: maptools,sp,raster,rgdal
+Depends: maptools,sp,raster,rgdal
