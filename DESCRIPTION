@@ -1,0 +1,10 @@
+Package: chinaGeoInfo
+Type: Package
+Title: the geoinformation of China used for plot
+Version: 0.1.0
+Author: Dong Quan
+Maintainer: Dong Quan <dongquan@cma.gov.cn>
+Description: geoinformation of china used for plot.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
